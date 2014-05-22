@@ -14,4 +14,4 @@ This script loads in the data downloaded by GetDataDir.R and tidies it up. Tidyi
 - extracting means and standard deviations of different measurements provided by the dataset
 - averaging these means and standard deviations for each combination of subject and activity type
 
-These features are prefixed with 't' or 'f' for time or frequency domain measurements. Acceleration and jerk are given for movement in each of the usual Euclidean directions and the magnitude given by the Euclidean norm. 
+These features are prefixed with 't' or 'f' for time or frequency domain measurements. Acceleration and jerk are given for movement in each of the usual Euclidean directions (denoted by suffix X,Y, or Z) and the magnitude given by the Euclidean norm. 
